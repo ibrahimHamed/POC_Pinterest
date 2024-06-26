@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D8CBE64B-9588-45C3-8E6B-E4BC845CBF3E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2749EB5-FCB4-4445-9839-7F67E9E233DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POC-PinterestLayout/SwiftUIMasonry/Internal/MasonryDynamicViewBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C2749EB5-FCB4-4445-9839-7F67E9E233DD - adb995bf586f62c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POC_PinterestLayout.MasonryDynamicViewBuilder.body.getter : some"
+                  moduleName = "POC-PinterestLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ntg/Documents/iOS/Demos/POC-PinterestLayout/POC-PinterestLayout/SwiftUIMasonry/Internal/MasonryDynamicViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+               <Location
+                  uuid = "C2749EB5-FCB4-4445-9839-7F67E9E233DD - 8702f1c4265f8d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (&#x3c4;_0_0.Element) -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in POC_PinterestLayout.MasonryDynamicViewBuilder.body.getter : some"
+                  moduleName = "POC-PinterestLayout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ntg/Documents/iOS/Demos/POC-PinterestLayout/POC-PinterestLayout/SwiftUIMasonry/Internal/MasonryDynamicViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

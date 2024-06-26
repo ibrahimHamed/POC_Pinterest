@@ -8,12 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		776EF7ED2C2C2AB5001B72F8 /* POC_PinterestLayoutApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF7EC2C2C2AB5001B72F8 /* POC_PinterestLayoutApp.swift */; };
-		776EF7EF2C2C2AB5001B72F8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF7EE2C2C2AB5001B72F8 /* ContentView.swift */; };
+		776EF7EF2C2C2AB5001B72F8 /* FirstSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF7EE2C2C2AB5001B72F8 /* FirstSolution.swift */; };
 		776EF7F12C2C2AB9001B72F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 776EF7F02C2C2AB9001B72F8 /* Assets.xcassets */; };
 		776EF7F42C2C2AB9001B72F8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 776EF7F32C2C2AB9001B72F8 /* Preview Assets.xcassets */; };
-		776EF7FE2C2C2AB9001B72F8 /* POC_PinterestLayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF7FD2C2C2AB9001B72F8 /* POC_PinterestLayoutTests.swift */; };
-		776EF8082C2C2AB9001B72F8 /* POC_PinterestLayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF8072C2C2AB9001B72F8 /* POC_PinterestLayoutUITests.swift */; };
-		776EF80A2C2C2AB9001B72F8 /* POC_PinterestLayoutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF8092C2C2AB9001B72F8 /* POC_PinterestLayoutUITestsLaunchTests.swift */; };
+		776EF82B2C2C831B001B72F8 /* SecondSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF82A2C2C831B001B72F8 /* SecondSolution.swift */; };
+		776EF82E2C2C83E8001B72F8 /* PinterestGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF82D2C2C83E8001B72F8 /* PinterestGrid.swift */; };
+		776EF8602C2CA93B001B72F8 /* Masonry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF8552C2CA93B001B72F8 /* Masonry.swift */; };
+		776EF8662C2CA93B001B72F8 /* MasonryLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 776EF85C2C2CA93B001B72F8 /* MasonryLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +37,15 @@
 /* Begin PBXFileReference section */
 		776EF7E92C2C2AB5001B72F8 /* POC-PinterestLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "POC-PinterestLayout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		776EF7EC2C2C2AB5001B72F8 /* POC_PinterestLayoutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POC_PinterestLayoutApp.swift; sourceTree = "<group>"; };
-		776EF7EE2C2C2AB5001B72F8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		776EF7EE2C2C2AB5001B72F8 /* FirstSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSolution.swift; sourceTree = "<group>"; };
 		776EF7F02C2C2AB9001B72F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		776EF7F32C2C2AB9001B72F8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		776EF7F92C2C2AB9001B72F8 /* POC-PinterestLayoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "POC-PinterestLayoutTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		776EF7FD2C2C2AB9001B72F8 /* POC_PinterestLayoutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POC_PinterestLayoutTests.swift; sourceTree = "<group>"; };
 		776EF8032C2C2AB9001B72F8 /* POC-PinterestLayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "POC-PinterestLayoutUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		776EF8072C2C2AB9001B72F8 /* POC_PinterestLayoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POC_PinterestLayoutUITests.swift; sourceTree = "<group>"; };
-		776EF8092C2C2AB9001B72F8 /* POC_PinterestLayoutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POC_PinterestLayoutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		776EF82A2C2C831B001B72F8 /* SecondSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSolution.swift; sourceTree = "<group>"; };
+		776EF82D2C2C83E8001B72F8 /* PinterestGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PinterestGrid.swift; sourceTree = "<group>"; };
+		776EF8552C2CA93B001B72F8 /* Masonry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Masonry.swift; sourceTree = "<group>"; };
+		776EF85C2C2CA93B001B72F8 /* MasonryLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MasonryLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,8 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				776EF7EB2C2C2AB5001B72F8 /* POC-PinterestLayout */,
-				776EF7FC2C2C2AB9001B72F8 /* POC-PinterestLayoutTests */,
-				776EF8062C2C2AB9001B72F8 /* POC-PinterestLayoutUITests */,
 				776EF7EA2C2C2AB5001B72F8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -95,7 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				776EF7EC2C2C2AB5001B72F8 /* POC_PinterestLayoutApp.swift */,
-				776EF7EE2C2C2AB5001B72F8 /* ContentView.swift */,
+				776EF85E2C2CA93B001B72F8 /* First Solution */,
+				776EF82C2C2C83D8001B72F8 /* Second Solution */,
 				776EF7F02C2C2AB9001B72F8 /* Assets.xcassets */,
 				776EF7F22C2C2AB9001B72F8 /* Preview Content */,
 			);
@@ -110,21 +111,23 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		776EF7FC2C2C2AB9001B72F8 /* POC-PinterestLayoutTests */ = {
+		776EF82C2C2C83D8001B72F8 /* Second Solution */ = {
 			isa = PBXGroup;
 			children = (
-				776EF7FD2C2C2AB9001B72F8 /* POC_PinterestLayoutTests.swift */,
+				776EF82A2C2C831B001B72F8 /* SecondSolution.swift */,
+				776EF82D2C2C83E8001B72F8 /* PinterestGrid.swift */,
 			);
-			path = "POC-PinterestLayoutTests";
+			path = "Second Solution";
 			sourceTree = "<group>";
 		};
-		776EF8062C2C2AB9001B72F8 /* POC-PinterestLayoutUITests */ = {
+		776EF85E2C2CA93B001B72F8 /* First Solution */ = {
 			isa = PBXGroup;
 			children = (
-				776EF8072C2C2AB9001B72F8 /* POC_PinterestLayoutUITests.swift */,
-				776EF8092C2C2AB9001B72F8 /* POC_PinterestLayoutUITestsLaunchTests.swift */,
+				776EF7EE2C2C2AB5001B72F8 /* FirstSolution.swift */,
+				776EF8552C2CA93B001B72F8 /* Masonry.swift */,
+				776EF85C2C2CA93B001B72F8 /* MasonryLayout.swift */,
 			);
-			path = "POC-PinterestLayoutUITests";
+			path = "First Solution";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +260,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				776EF7EF2C2C2AB5001B72F8 /* ContentView.swift in Sources */,
+				776EF7EF2C2C2AB5001B72F8 /* FirstSolution.swift in Sources */,
+				776EF82B2C2C831B001B72F8 /* SecondSolution.swift in Sources */,
+				776EF82E2C2C83E8001B72F8 /* PinterestGrid.swift in Sources */,
+				776EF8602C2CA93B001B72F8 /* Masonry.swift in Sources */,
+				776EF8662C2CA93B001B72F8 /* MasonryLayout.swift in Sources */,
 				776EF7ED2C2C2AB5001B72F8 /* POC_PinterestLayoutApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -266,7 +273,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				776EF7FE2C2C2AB9001B72F8 /* POC_PinterestLayoutTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +280,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				776EF80A2C2C2AB9001B72F8 /* POC_PinterestLayoutUITestsLaunchTests.swift in Sources */,
-				776EF8082C2C2AB9001B72F8 /* POC_PinterestLayoutUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +433,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -457,6 +462,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
